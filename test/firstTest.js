@@ -4,7 +4,7 @@ const {Builder, By, Key} = require ("selenium-webdriver");
 //const assert = require ("assert");
 var should = require("chai").should();
 
-//describe block
+//describe block test
 describe("add todo tests", function(){
     //it block
     it("successfully adds a todo", async function(){
